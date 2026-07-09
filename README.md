@@ -21,4 +21,4 @@ OpenCV(`OpenCvSharp`)와 `MathNet.Numerics`를 활용하여 선형 해 도출부
 
 ## 🛠️ 기술 스택
 * **Language:** C#
-* **Libraries:** OpenCvSharp4 (비전 처리 및 PnP), MathNet.Numerics (비선형 최적화 및 수학 연산)
+* **Libraries:** OpenCvSharp4 (비전 처리 및 PnP), MathNet.Numerics (비선형 최적화 및 수학 연산), SharpDX (UI 표기)
